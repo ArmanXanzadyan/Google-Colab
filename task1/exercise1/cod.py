@@ -1,4 +1,4 @@
-mport numpy as np
+import numpy as np
 
 # 1. Երկու զանգվածների ստեղծում
 a = np.array([10, 20, 30, 40, 50])
